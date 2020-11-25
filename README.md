@@ -1,6 +1,6 @@
-# Learn SQL Basics for Data Science
+# Learn SQL Basics for Data Science (UCDavis - Coursera)
 
-## Course 1: SQL for Data Science
+## Course 1: SQL for Data Science (UCDavis - Coursera)
 
 **Final Project: "Scientist Role Play: Profiling and Analyzing the Yelp Dataset"**
 
